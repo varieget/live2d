@@ -1,0 +1,74 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 2,
+		"TotalSegmentCount": 6,
+		"TotalPointCount": 20,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.489,
+				0,
+				0.978,
+				1,
+				1.467,
+				1,
+				1,
+				1.978,
+				1,
+				2.489,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh74",
+			"Segments": [
+				0,
+				-45,
+				1,
+				0.222,
+				-45,
+				0.444,
+				45,
+				0.667,
+				45,
+				1,
+				0.944,
+				45,
+				1.222,
+				-45,
+				1.5,
+				-45,
+				1,
+				1.711,
+				-45,
+				1.922,
+				45,
+				2.133,
+				45,
+				1,
+				2.422,
+				45,
+				2.711,
+				-45,
+				3,
+				-45
+			]
+		}
+	]
+}
